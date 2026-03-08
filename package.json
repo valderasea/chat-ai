@@ -1,0 +1,13 @@
+{
+  "name": "wa-ai-nexra-blckrose",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@blckrose/baileys": "1.1.5",
+    "axios": "^1.7.9",
+    "pino": "^9.5.0"
+  }
+}
